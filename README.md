@@ -1,3 +1,5 @@
+# Project: Working with SQLite Database
+
 In this project, we'll be working with the CIA World Factbook, a compendium of facts about countries. The Factbook contains demographic information for each country in the world, including:
 
 population - The population as of 2015
